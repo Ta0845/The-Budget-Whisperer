@@ -1,0 +1,144 @@
+walmart
+target
+costco
+sams club
+sam's club
+kroger
+walgreens
+cvs
+meijer
+aldi
+whole foods
+trader joes
+trader joe's
+home depot
+lowes
+lowe's
+best buy
+mcdonalds
+mcdonald's
+starbucks
+chick-fil-a
+taco bell
+wendys
+wendy's
+dollar general
+dollar tree
+family dollar
+publix
+safeway
+albertsons
+schnucks
+jewel-osco
+jewel osco
+hy-vee
+hyvee
+county market
+fresh thyme
+green top grocery
+save a lot
+menards
+hobby lobby
+von maur
+tj maxx
+tjmaxx
+marshalls
+ross
+kohls
+kohl's
+jcpenney
+jc penney
+bed bath beyond
+ulta
+bath body works
+old navy
+gap
+american eagle
+rue 21
+rue21
+gamestop
+five below
+big lots
+staples
+office depot
+petsmart
+petco
+autozone
+o'reilly
+oreilly
+advance auto
+napa
+shell
+bp
+marathon
+speedway
+casey's
+caseys
+circle k
+mobil
+exxon
+phillips 66
+culvers
+culver's
+portillos
+portillo's
+raising canes
+raising cane's
+popeyes
+kfc
+burger king
+arby's
+arbys
+subway
+jimmy johns
+jimmy john's
+jersey mikes
+jersey mike's
+firehouse subs
+potbelly
+panera
+chipotle
+qdoba
+panda express
+olive garden
+applebees
+applebee's
+chilis
+chili's
+buffalo wild wings
+bdubs
+red robin
+outback
+texas roadhouse
+cracker barrel
+ihop
+dennys
+denny's
+bob evans
+waffle house
+dunkin
+dunkin donuts
+dairy queen
+sonic
+five guys
+shake shack
+wingstop
+papa johns
+papa john's
+dominos
+domino's
+pizza hut
+little caesars
+marcos
+marco's
+jets pizza
+jet's pizza
+jason's deli
+jasons deli
+meatheads
+steak n shake
+steak 'n shake
+a&w
+taco johns
+taco john's
+bojangles
