@@ -1,0 +1,20 @@
+total
+subtotal
+sub-total
+grand total
+total due
+amount due
+balance due
+total amount
+net total
+sale total
+total sale
+order total
+your total
+new total
+final total
+amount paid
+total paid
+net amount
+transaction total
+purchase total
